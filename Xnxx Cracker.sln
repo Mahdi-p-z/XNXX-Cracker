@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xnxx Cracker", "Xnxx Cracker\Xnxx Cracker.csproj", "{B89E760D-CDB8-4C83-924B-2F89B59FC42B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89E760D-CDB8-4C83-924B-2F89B59FC42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89E760D-CDB8-4C83-924B-2F89B59FC42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89E760D-CDB8-4C83-924B-2F89B59FC42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89E760D-CDB8-4C83-924B-2F89B59FC42B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C03EE1BA-DEC2-4A38-8FCD-194CAD08EB42}
+	EndGlobalSection
+EndGlobal

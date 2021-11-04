@@ -1,0 +1,13 @@
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\bin\Debug\Xnxx Cracker.exe.config
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\bin\Debug\Xnxx Cracker.exe
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\bin\Debug\Xnxx Cracker.pdb
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\obj\Debug\Xnxx_Cracker.Form1.resources
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\obj\Debug\Xnxx_Cracker.Properties.Resources.resources
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\obj\Debug\Xnxx Cracker.csproj.GenerateResource.cache
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\obj\Debug\Xnxx Cracker.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\obj\Debug\Xnxx Cracker.exe
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\obj\Debug\Xnxx Cracker.pdb
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\bin\Debug\Leaf.xNet.dll
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\bin\Debug\ThreadGun.dll
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\obj\Debug\Xnxx Cracker.csproj.CopyComplete
+C:\Users\mahdi\source\repos\Xnxx Cracker\Xnxx Cracker\obj\Debug\Xnxx Cracker.csproj.AssemblyReference.cache
